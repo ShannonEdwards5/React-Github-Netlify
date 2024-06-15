@@ -1,5 +1,5 @@
 body {
-  background-color: #f0d9da;
+  background-color: #f8edf8;
   font-family: "Roboto", sans-serif;
 }
 
@@ -12,7 +12,7 @@ body {
     rgb(243, 250, 189) 52.9%,
     rgb(250, 227, 189) 66.8%,
     rgb(248, 172, 172) 90%,
-    rgb(254, 211, 252) 99.7%
+    rgb(250, 175, 246) 99.7%
   );
 
   max-width: 600px;
@@ -23,11 +23,11 @@ body {
 }
 
 header {
-  border-bottom: 1px solid #f0d9da;
+  border-bottom: 1px solid #f56bd2;
   padding: 0 0 30px 0;
 }
 a {
-  color: #fe4e6e;
+  color: rgb(245, 59, 245);
 }
 .search-form-input {
   background-color: #f0d9da;
@@ -39,7 +39,7 @@ a {
 }
 
 .search-form-button {
-  background: plum;
+  background: rgb(245, 98, 245);
   padding: 15px 20px;
   border: none;
   margin-left: 5px;
@@ -97,11 +97,11 @@ p {
 }
 
 footer {
-  border-top: 1px solid #f0d9da;
   padding: 30px 0 0 0;
   text-align: center;
   font-size: 15px;
   color: rgba(0, 0, 0, 0.7);
+  border-top: 1px solid #f56bd2;
 }
 
 #forecast {
